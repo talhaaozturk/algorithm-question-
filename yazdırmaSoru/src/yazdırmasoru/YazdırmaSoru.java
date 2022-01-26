@@ -1,4 +1,3 @@
-//FATİH ÖZKAYNAK AVP SORU1
 package yazdırmasoru;
 
 import java.util.Scanner;
